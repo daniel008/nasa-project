@@ -1,3 +1,4 @@
+// const launches = require('./launches.model')
 const launches = new Map();
 
 let latestFlightNumber = 100;
